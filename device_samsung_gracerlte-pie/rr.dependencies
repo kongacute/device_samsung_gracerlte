@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "resurrectionremix-hero/device_samsung_gracer-common",
+    "target_path": "device/samsung/gracer-common",
+    "branch": "pie"
+  }
+]
